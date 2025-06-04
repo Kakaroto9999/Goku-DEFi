@@ -1,1 +1,3 @@
-# Goku-DEFi
+# NS-SPAM-API
+
+SPAM API ONLY FOR IND
